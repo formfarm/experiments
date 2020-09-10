@@ -1,3 +1,15 @@
 body {
-  font-family: monospace;
+  font-family: "Menlo", monospace;
+  margin: 10px 10px 10px 20px;
+}
+h1 {
+  font-size: 32px;
+}
+li {
+  font-size: 20px;
+  line-height: 40px;
+}
+p {
+  font-size: 16px;
+  margin: 0;
 }
